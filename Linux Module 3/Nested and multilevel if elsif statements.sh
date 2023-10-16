@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# Prompt the user to enter a number
 echo "Enter a number:"
 read number
 
-# Check if the input is empty
 if [ -z "$number" ]; then
     echo "You did not enter any number."
 else
