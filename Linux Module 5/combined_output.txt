@@ -1,0 +1,6 @@
+Name : Ses
+Class :ECE C
+CGPA : 9.38
+ 
+THis is a page created to learn  redirections as a task. THis is to be redirected to another new file combined_output along with the output file generated earlier.
+

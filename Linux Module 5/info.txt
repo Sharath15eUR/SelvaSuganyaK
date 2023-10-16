@@ -1,0 +1,4 @@
+Name : Ses
+Class :ECE C
+CGPA : 9.38
+ 
